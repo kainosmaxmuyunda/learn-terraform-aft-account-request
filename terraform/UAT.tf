@@ -4,7 +4,7 @@ module "uat" {
   control_tower_parameters = {
     AccountEmail              = "aws_uatlz_acc@kainos.com"
     AccountName               = "uat"
-    ManagedOrganizationalUnit = "Dev""
+    ManagedOrganizationalUnit = "Dev"
     SSOUserEmail              = "aws_uatlz_acc@kainos.com"
     SSOUserFirstName          = "uat"
     SSOUserLastName           = "AFT"
